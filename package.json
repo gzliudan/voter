@@ -41,7 +41,8 @@
     "verify:xinfin": "hardhat run --network xinfin scripts/verify.js",
     "verify:apothem": "hardhat run --network apothem scripts/verify.js",
     "verify:polygon": "hardhat run --network polygon scripts/verify.js",
-    "verify:mumbai": "hardhat run --network mumbai scripts/verify.js"
+    "verify:mumbai": "hardhat run --network mumbai scripts/verify.js",
+    "snapshot": "hardhat run --network mumbai scripts/snapshot.js"
   },
   "devDependencies": {
     "@ethersproject/abi": "^5.7.0",
