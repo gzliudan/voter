@@ -1,0 +1,21 @@
+{
+  "chain_name": "mumbai",
+  "chain_id": 80001,
+  "vote_token": {
+    "name": "VoteToken",
+    "args": [
+      "Vote Token",
+      "VTK"
+    ],
+    "address": "0x3cBD63a61D162acF8f2f801ecE7bA1060b2F6F3d",
+    "block": 34755592,
+    "hash": "0x3f60bafbe8d977f06da2ea0bf01137663dc4b4d5dc23b6b5c5949d7046b2c1db"
+  },
+  "vote": {
+    "name": "Vote",
+    "args": [],
+    "address": "0x484C06336D8a105477D424a2E4Bdebb2A0aC8B86",
+    "block": 34757372,
+    "hash": "0xb6eb59fef943424ff6f218d64a13147610b78bc524de3815f3ae5894331d31df"
+  }
+}
